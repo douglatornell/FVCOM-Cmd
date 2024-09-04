@@ -61,7 +61,7 @@ sphinxcontrib-serializinghtml==1.1.9
 stevedore==5.1.0
 tomli==2.0.1
 typing_extensions==4.8.0
-urllib3==2.0.5
+urllib3==2.2.2
 wcwidth==0.2.6
 wheel==0.41.2
 yapf==0.40.2
